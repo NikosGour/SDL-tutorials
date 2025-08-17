@@ -66,9 +66,9 @@ while [ "$1" != "" ]; do
 	run)
 		run_flag=true
 		;;
-	# cli)
-	# 	app_choice="cli"
-	# 	;;
+	01_hello_SDL)
+		app_choice="01_hello_SDL"
+		;;
 	# gui)
 	# 	app_choice="gui"
 	# 	;;
