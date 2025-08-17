@@ -1,0 +1,6 @@
+github.com/NikosGour/logging v0.1.9 h1:iO1JDbEx2RjP+kTracMfF8S27eMYwus0odd9vutI4cI=
+github.com/NikosGour/logging v0.1.9/go.mod h1:LAqi5AhghslpJwTIukrAdgCMNpN9g3uZ6uLqEHCUBvc=
+github.com/veandco/go-sdl2 v0.4.40 h1:fZv6wC3zz1Xt167P09gazawnpa0KY5LM7JAvKpX9d/U=
+github.com/veandco/go-sdl2 v0.4.40/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
+gitlab.com/metakeule/fmtdate v1.2.2 h1:ce0Qnwo6PAONi6xwPr4YxdxAFIKqNfoMbHG4c49vIjk=
+gitlab.com/metakeule/fmtdate v1.2.2/go.mod h1:uZUf21xepWGLp6PgJGBbHeBVWO+/gsKi3Gdh0Fu4lGg=
