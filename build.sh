@@ -75,6 +75,9 @@ while [ "$1" != "" ]; do
 	04_key_presses)
 		app_choice="04_key_presses"
 		;;
+	05_optimized_surface_loading_and_soft_stretching)
+		app_choice="05_optimized_surface_loading_and_soft_stretching"
+		;;
 	# gui)
 	# 	app_choice="gui"
 	# 	;;
