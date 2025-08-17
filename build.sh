@@ -69,6 +69,9 @@ while [ "$1" != "" ]; do
 	01_hello_SDL)
 		app_choice="01_hello_SDL"
 		;;
+	02_getting_an_image_on_the_screen)
+		app_choice="02_getting_an_image_on_the_screen"
+		;;
 	# gui)
 	# 	app_choice="gui"
 	# 	;;
