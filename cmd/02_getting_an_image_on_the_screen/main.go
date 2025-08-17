@@ -35,7 +35,7 @@ func initSDL() error {
 
 func loadMedia() error {
 	var err error
-	filepath := "./hello_world.bmp"
+	filepath := "./assets/02/hello_world.bmp"
 	helloWorld, err = sdl.LoadBMP(filepath)
 	if err != nil {
 		return fmt.Errorf("Unable to load image %s! SDL Error: %w", filepath, err)

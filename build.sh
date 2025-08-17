@@ -72,6 +72,9 @@ while [ "$1" != "" ]; do
 	02_getting_an_image_on_the_screen)
 		app_choice="02_getting_an_image_on_the_screen"
 		;;
+	04_key_presses)
+		app_choice="04_key_presses"
+		;;
 	# gui)
 	# 	app_choice="gui"
 	# 	;;
